@@ -16,7 +16,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.Kushagra {
+.shivang {
     width: 60%;
 }
 
@@ -26,7 +26,7 @@
     }
 }
 
-.Kushagra h1 {
+.shivang h1 {
     color: white;
     font-size: 50px;
     padding: 10px 0;
@@ -37,13 +37,13 @@
     font-family: "Rajdhani", sans-serif;
 }
 
-.Kushagra form {
+.shivang form {
     display: flex;
     width: 100%;
     background-color:#33df19;
 }
 
-.Kushagra form input {
+.shivang form input {
 
     border: none;
     background-color: #fefeff;
@@ -52,11 +52,11 @@
     padding: 10px;
     width: 90%;
 }
-.Kushagra form input:hover{
+.shivang form input:hover{
     background-color: #07b5efe2;
 }
 
-.Kushagra form button {
+.shivang form button {
     border: none;
     color: rgb(20, 2, 2);
     background-color: #08f6c6;
@@ -65,18 +65,18 @@
     height: 42px;
     width: 10%;
 }
-.Kushagra form button:hover{
+.shivang form button:hover{
     background-color: #53caf1e2;
 }
 
-.Kushagra ul {
+.shivang ul {
     list-style: none;
     color: #fffdfd;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.Kushagra ul li {
+.shivang ul li {
     padding: 10px;
     background-color: #ff0909;
     border-bottom: 1px solid #3a4674;
@@ -109,12 +109,12 @@
     outline: none;
 }
 
-.Kushagra ul li i {
+.shivang ul li i {
     float: right;
     cursor: pointer;
 }
 
-.Kushagra ul li i:hover {
+.shivang ul li i:hover {
     color: #5258ff;
 }
 
